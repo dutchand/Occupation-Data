@@ -1,0 +1,6 @@
+1. Open the file 'Converting Pdf to CSV.ipynb'
+2. Run the code on 'District 01.pdf'
+3. There will be 60 files of type csv created
+4. Manually merge files into a new file. This was done in 'District 01.csv'
+5. Open the file 'Analyzing CSV for Insights .ipynb' to analyze the data
+6. Figures are printed and can be observed in code and in filesystem
